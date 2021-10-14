@@ -3,8 +3,6 @@
 # java 컴파일된 BIN 파일들
 *.class
 
-
-
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
